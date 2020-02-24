@@ -75,7 +75,7 @@ Para dibujar una línea horizontal escribimos tres veces alguno de los siguiente
 
 - Cualquier texto genera un párrafo.
 - Para escribir en un nuevo párrafo dejamos **una línea en blanco**.
-- Para escribir en una nueva línea pero dentro del mísmo párrafo, escribimos **dos espacios** y luego el **salto de línea**.
+- Para escribir en una nueva línea pero dentro del mismo párrafo, escribimos **dos espacios** y luego el **salto de línea**.
 
 **Ejemplo**:
 
@@ -232,7 +232,7 @@ Una **referencia** es como una variable donde podemos almacenar una URL de una i
 [terminal]: assets/terminal.png
 ```
 
-Se recomienda colocar todas las **referencias** de imágenes al final del documento.
+Se recomienda colocar todas las **referencias** de imagenes al final del documento.
 
 [:arrow_up: Volver al temario][temario]
 
@@ -432,20 +432,20 @@ Podemos encontrar este tipo de listas en glosarios, enciclopedias, diccionarios,
 **Ejemplo**:
 
 ```markdown
-Término 1
+Término 1  
 : Definición 1
 
-Término 2
+Término 2  
 : Definición 1
 : Definición 2
 ```
 
 **Salida**:
 
-Término 1
+Término 1  
 : Definición 1
 
-Término 2
+Término 2  
 : Definición 1
 : Definición 2
 
