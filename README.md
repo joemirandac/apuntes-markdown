@@ -20,8 +20,6 @@ Este texto no pretende ser una guía de Markdown. Simplemente es un material de 
 
 ## 1. Encabezados {#encabezados}
 
----
-
 Los encabezados permiten definir el título principal y los subtítulos de un documento.
 
 ### 1.1 Sintaxis
@@ -53,8 +51,6 @@ El nivel de un encabezado se determina por la cantidad de símbolos `#` que util
 
 ## 2. Líneas Horizontales {#lineas-horizontales}
 
----
-
 Las líneas horizontales permiten separar de manera visual las secciones de un documento.
 
 ### 2.1 Sintaxis
@@ -74,8 +70,6 @@ Para dibujar una línea horizontal escribimos tres veces alguno de los siguiente
 [:arrow_up: Volver al temario][temario]
 
 ## 3. Párrafos {#parrafos}
-
----
 
 ### 3.1 Sintaxis
 
@@ -102,8 +96,6 @@ Este texto está en una nueva línea pero dentro del mismo párrafo.
 [:arrow_up: Volver al temario][temario]
 
 ## 4. Estilos de texto {#estilos}
-
----
 
 ### 4.1 Sintaxis
 
@@ -143,8 +135,6 @@ ___Este es un texto en cursiva y negrita___
 
 ## 5. Código {#codigo}
 
----
-
 ### 5.1 Código en línea
 
 **Ejemplo**:
@@ -181,8 +171,6 @@ let saludar = () => {
 
 ## 6. Citas {#citas}
 
----
-
 ### 6.1 Sintaxis
 
 Para indicar una cita utilizamos como prefijo el símbolo `>`.
@@ -204,8 +192,6 @@ Para indicar una cita utilizamos como prefijo el símbolo `>`.
 [:arrow_up: Volver al temario][temario]
 
 ## 7. Imagenes {#imagenes}
-
----
 
 ### 7.1 Sintaxis
 
@@ -251,8 +237,6 @@ Se recomienda colocar todas las **referencias** de imágenes al final del docume
 [:arrow_up: Volver al temario][temario]
 
 ## 8. Enlaces {#enlaces}
-
----
 
 Los enlaces permiten redirigir a una parte específica del mismo documento, a otro documento u otro recurso.
 
@@ -358,8 +342,6 @@ Un marcador consta de un hipervínculo apuntando hacia un encabezado marcado con
 [:arrow_up: Volver al temario][temario]
 
 ## 9. Listas {#listas}
-
----
 
 Una lista es un conjunto de elementos.
 
@@ -471,8 +453,6 @@ Término 2
 
 ## 10. Tablas {#tablas}
 
----
-
 Las tablas permiten mostrar datos de manera tabular (en filas y columnas).
 
 ### 10.1 Sintaxis
@@ -519,8 +499,6 @@ Para indicar la alineación de una columna utilizamos el símbolo `:`.
 [:arrow_up: Volver al temario][temario]
 
 ## 11. Editores Online {#editores-online}
-
----
 
 - [StackEdit](https://stackedit.io/app)
 - [Dillinger](https://dillinger.io/)
