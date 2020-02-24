@@ -4,21 +4,21 @@
 
 Este texto no pretende ser una guía de Markdown. Simplemente es un material de repaso escrito **por y para mí**. Sin embargo, si le encuentras algún valor, tienes la libertad de replicarlo y hacerle los cambios que consideres necesarios.
 
-## :page_facing_up: Temario {#temario}
+## :page_facing_up: Temario
 
-1. [Encabezados](#encabezados)
-2. [Líneas Horizontales](#lineas-horizontales)
-3. [Párrafos](#parrafos)
-4. [Estilos de texto](#estilos)
-5. [Código](#codigo)
-6. [Citas](#citas)
-7. [Imagenes](#imagenes)
-8. [Enlaces](#enlaces)
-9. [Listas](#listas)
-10. [Tablas](#tablas)
-11. [Editores Online](#editores-online)
+1. [Encabezados](#1-encabezados)
+2. [Líneas Horizontales](#2-líneas-horizontales)
+3. [Párrafos](#3-párrafos)
+4. [Estilos de texto](#4-estilos-de-texto)
+5. [Código](#5-código)
+6. [Citas](#6-citas)
+7. [Imagenes](#7-imagenes)
+8. [Enlaces](#8-enlaces)
+9. [Listas](#9-listas)
+10. [Tablas](#10-tablas)
+11. [Editores Online](#11-editores-online)
 
-## 1. Encabezados {#encabezados}
+## 1. Encabezados
 
 Los encabezados permiten definir el título principal y los subtítulos de un documento.
 
@@ -49,7 +49,7 @@ El nivel de un encabezado se determina por la cantidad de símbolos `#` que util
 
 [:arrow_up: Volver al temario][temario]
 
-## 2. Líneas Horizontales {#lineas-horizontales}
+## 2. Líneas Horizontales
 
 Las líneas horizontales permiten separar de manera visual las secciones de un documento.
 
@@ -69,7 +69,7 @@ Para dibujar una línea horizontal escribimos tres veces alguno de los siguiente
 
 [:arrow_up: Volver al temario][temario]
 
-## 3. Párrafos {#parrafos}
+## 3. Párrafos
 
 ### 3.1 Sintaxis
 
@@ -95,7 +95,7 @@ Este texto está en una nueva línea pero dentro del mismo párrafo.
 
 [:arrow_up: Volver al temario][temario]
 
-## 4. Estilos de texto {#estilos}
+## 4. Estilos de texto
 
 ### 4.1 Sintaxis
 
@@ -133,7 +133,7 @@ ___Este es un texto en cursiva y negrita___
 
 [:arrow_up: Volver al temario][temario]
 
-## 5. Código {#codigo}
+## 5. Código
 
 ### 5.1 Código en línea
 
@@ -169,7 +169,7 @@ let saludar = () => {
 
 [:arrow_up: Volver al temario][temario]
 
-## 6. Citas {#citas}
+## 6. Citas
 
 ### 6.1 Sintaxis
 
@@ -191,7 +191,7 @@ Para indicar una cita utilizamos como prefijo el símbolo `>`.
 
 [:arrow_up: Volver al temario][temario]
 
-## 7. Imagenes {#imagenes}
+## 7. Imagenes
 
 ### 7.1 Sintaxis
 
@@ -236,7 +236,7 @@ Se recomienda colocar todas las **referencias** de imágenes al final del docume
 
 [:arrow_up: Volver al temario][temario]
 
-## 8. Enlaces {#enlaces}
+## 8. Enlaces
 
 Los enlaces permiten redirigir a una parte específica del mismo documento, a otro documento u otro recurso.
 
@@ -279,7 +279,7 @@ Los enlaces permiten redirigir a una parte específica del mismo documento, a ot
 
 **Salida**:
 
-[Ir al archivo ABOUT.md](ABOUT.md "Este es un recurso local")
+[Ir al archivo ABOUT.md](ABOUT.md "Este es un recurso local")  
 [Ir a Google](https://www.google.com "Este es un recurso externo")
 
 ### 8.3 Referencias de enlaces
@@ -341,7 +341,7 @@ Un marcador consta de un hipervínculo apuntando hacia un encabezado marcado con
 
 [:arrow_up: Volver al temario][temario]
 
-## 9. Listas {#listas}
+## 9. Listas
 
 Una lista es un conjunto de elementos.
 
@@ -451,7 +451,7 @@ Término 2
 
 [:arrow_up: Volver al temario][temario]
 
-## 10. Tablas {#tablas}
+## 10. Tablas
 
 Las tablas permiten mostrar datos de manera tabular (en filas y columnas).
 
@@ -498,11 +498,11 @@ Para indicar la alineación de una columna utilizamos el símbolo `:`.
 
 [:arrow_up: Volver al temario][temario]
 
-## 11. Editores Online {#editores-online}
+## 11. Editores Online
 
 - [StackEdit](https://stackedit.io/app)
 - [Dillinger](https://dillinger.io/)
 
 [:arrow_up: Volver al temario][temario]
 
-[temario]: #temario
+[temario]: #page_facing_up-temario
